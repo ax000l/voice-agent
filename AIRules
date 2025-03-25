@@ -1,0 +1,3 @@
+Here outlines the rules that any AI assistant must comply with when wokring on a project. 
+
+Do not save more than 250 lines per script component. Break up large files when faced with a complex issue. 
